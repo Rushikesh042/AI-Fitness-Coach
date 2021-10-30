@@ -14,7 +14,7 @@ We examine at workout videos and evaluate the posture of the individual performi
 4. Finally, we take each posture score and print this information onto the frame of the video and write each frame to our output object.
 
 Output of this Code :
-
+https://user-images.githubusercontent.com/54346227/139542078-5c1469d2-f3b5-4dd3-98ef-009bb50d1b38.mp4
 
 
 References :
