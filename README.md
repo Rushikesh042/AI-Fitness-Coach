@@ -13,15 +13,13 @@ We examine at workout videos and evaluate the posture of the individual performi
 
 4. Finally, we take each posture score and print this information onto the frame of the video and write each frame to our output object.
 
-![output](https://user-images.githubusercontent.com/54346227/139542443-cd160640-c005-4d10-a8ec-1daf8303c8d2.png)
-
 ![output2](https://user-images.githubusercontent.com/54346227/139542449-efbee999-ef74-4c47-bb1e-811cae15bbd5.png)
+
+![output](https://user-images.githubusercontent.com/54346227/139542443-cd160640-c005-4d10-a8ec-1daf8303c8d2.png)
 
 https://user-images.githubusercontent.com/54346227/139542373-7effbc0c-9442-4148-9195-2570fdf1ae97.mp4
 
-
-
-
+Built using pre-trained weights for OpenPose keypoint detection using the MPII pose estimation dataset, Python 3.8, OpenCV, Scikit-Learn and Jupyter Notebook.
 
 References :
 [1] https://github.com/spmallick/learnopencv
