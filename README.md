@@ -20,6 +20,7 @@ We examine at workout videos and evaluate the posture of the individual performi
 https://user-images.githubusercontent.com/54346227/139542373-7effbc0c-9442-4148-9195-2570fdf1ae97.mp4
 
 Built using pre-trained weights for OpenPose keypoint detection using the MPII pose estimation dataset, Python 3.8, OpenCV, Scikit-Learn and Jupyter Notebook.
+
 PoseDetectionOpenCV.py : For Real Time Pose Estimation
 PoseDetection_Notebook.ipynb : For User-Input Video based Pose Estimation
 
