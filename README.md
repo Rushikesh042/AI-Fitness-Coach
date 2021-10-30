@@ -22,6 +22,7 @@ https://user-images.githubusercontent.com/54346227/139542373-7effbc0c-9442-4148-
 Built using pre-trained weights for OpenPose keypoint detection using the MPII pose estimation dataset, Python 3.8, OpenCV, Scikit-Learn and Jupyter Notebook.
 
 PoseDetectionOpenCV.py : For Real Time Pose Estimation
+
 PoseDetection_Notebook.ipynb : For User-Input Video based Pose Estimation
 
 By getting the quantified data of a body motion, it is possible to find insights from the data. For example, hand speed can be calculated, angles between joints during the swing can be calculated as well. These data might be helpful for advanced training and maybe injury prevention.
