@@ -29,4 +29,5 @@ By getting the quantified data of a body motion, it is possible to find insights
 
 References :
 [1] https://github.com/spmallick/learnopencv
+
 [2] https://github.com/wangzheallen/awesome-human-pose-estimation
