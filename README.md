@@ -13,10 +13,8 @@ We examine at workout videos and evaluate the posture of the individual performi
 
 4. Finally, we take each posture score and print this information onto the frame of the video and write each frame to our output object.
 
-Steps to run this code : 
-
-
-Installation and Dependencies : 
+Output of this Code :
+https://github.com/Rushikesh042/AI-Fitness-Coach/blob/main/testing_data/output.mp4
 
 
 References :
