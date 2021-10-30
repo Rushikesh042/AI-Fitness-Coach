@@ -28,6 +28,7 @@ PoseDetection_Notebook.ipynb : For User-Input Video based Pose Estimation
 By getting the quantified data of a body motion, it is possible to find insights from the data. For example, hand speed can be calculated, angles between joints during the swing can be calculated as well. These data might be helpful for advanced training and maybe injury prevention.
 
 References :
+
 [1] https://github.com/spmallick/learnopencv
 
 [2] https://github.com/wangzheallen/awesome-human-pose-estimation
